@@ -13,3 +13,6 @@ $ cargo test
 $ cargo build-bpf
 $ cargo test-bpf
 ```
+
+### Could not test on windows
+Link to tutorial: https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/#processor-part-2-pdas-part-2-cpis-part-1
